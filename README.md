@@ -2,7 +2,7 @@
 - 👀 I’m interested in application integration
 - 🌱 I’m currently learning about APIs and all that stuff
 - 💞️ I love to hate terraform
-- 📫 How to reach me ...
+- 📫 How to reach me ... well, you cannot
 - :shipit: .....
 
 <!---
